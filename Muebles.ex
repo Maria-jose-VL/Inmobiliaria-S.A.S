@@ -13,7 +13,7 @@ defmodule Muebles do
       :world
 
   """
-  def hello do
+  def hell do
     :world
   end
 end
