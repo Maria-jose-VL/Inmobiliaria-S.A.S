@@ -1,0 +1,16 @@
+# Elixir/Mix build artifacts
+/_build/
+/deps/
+*.ez
+
+# Generated on crash
+erl_crash.dump
+
+# IDE
+.elixir_ls/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

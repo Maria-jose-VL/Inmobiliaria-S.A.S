@@ -1,2 +1,0 @@
-defmodule usuarios do
-end 
